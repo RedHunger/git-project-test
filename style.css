@@ -1,0 +1,28 @@
+body {
+	background: #2E433b;
+	background-color: white; 
+}
+
+p{
+	color:blue;
+	width: auto;
+	padding: auto;
+}
+span{
+	display: inline-block;
+	margin-left: 15px;
+}
+ 
+#button1{
+	display: block;
+	margin-top: 10px;
+}
+#email{
+	padding-left:35px; 
+
+}
+
+.ermess{
+	color:red;
+
+}
